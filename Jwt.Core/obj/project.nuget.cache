@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "SlW5jU1Ejm00fI2AiIGC+8A8J4erlXsjgh/KaXVBylu/Drdw3VXJ0W4OSlFDgIX2h6xBC1TWxyxN17jwX8QV+g==",
+  "success": true,
+  "projectFilePath": "D:\\dev\\jwt\\Jwt.Core\\Jwt.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\henrique.giaretta\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
+    "C:\\Users\\henrique.giaretta\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\henrique.giaretta\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\henrique.giaretta\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\henrique.giaretta\\.nuget\\packages\\secureidentity\\1.0.4\\secureidentity.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

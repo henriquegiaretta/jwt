@@ -1,0 +1,15 @@
+D:\dev\jwt\Jwt.Infra\bin\Debug\net7.0\Jwt.Infra.deps.json
+D:\dev\jwt\Jwt.Infra\bin\Debug\net7.0\Jwt.Infra.dll
+D:\dev\jwt\Jwt.Infra\bin\Debug\net7.0\Jwt.Infra.pdb
+D:\dev\jwt\Jwt.Infra\bin\Debug\net7.0\Jwt.Core.dll
+D:\dev\jwt\Jwt.Infra\bin\Debug\net7.0\Jwt.Core.pdb
+D:\dev\jwt\Jwt.Infra\obj\Debug\net7.0\Jwt.Infra.csproj.AssemblyReference.cache
+D:\dev\jwt\Jwt.Infra\obj\Debug\net7.0\Jwt.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\jwt\Jwt.Infra\obj\Debug\net7.0\Jwt.Infra.AssemblyInfoInputs.cache
+D:\dev\jwt\Jwt.Infra\obj\Debug\net7.0\Jwt.Infra.AssemblyInfo.cs
+D:\dev\jwt\Jwt.Infra\obj\Debug\net7.0\Jwt.Infra.csproj.CoreCompileInputs.cache
+D:\dev\jwt\Jwt.Infra\obj\Debug\net7.0\Jwt.Infra.csproj.CopyComplete
+D:\dev\jwt\Jwt.Infra\obj\Debug\net7.0\Jwt.Infra.dll
+D:\dev\jwt\Jwt.Infra\obj\Debug\net7.0\refint\Jwt.Infra.dll
+D:\dev\jwt\Jwt.Infra\obj\Debug\net7.0\Jwt.Infra.pdb
+D:\dev\jwt\Jwt.Infra\obj\Debug\net7.0\ref\Jwt.Infra.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ULRCmm+x+uhZAzxIR88GvCb4O5zQsEfofZ4SxPVdX6Q=",
+  "Source": "Jwt.API",
+  "BasePath": "_content/Jwt.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
